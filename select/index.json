@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "雪が降る町",
+  "base_artist": "UNICORN",
+  "createdAt": "2026-02-19T13:07:06.314405Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雪が降る町",
+      "artist": "PUFFY",
+      "has_synced": false,
+      "path": "select/01_雪が降る町_PUFFY.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雪が降る町",
+      "artist": "Yuko Ando",
+      "has_synced": false,
+      "path": "select/02_雪が降る町_Yuko_Ando.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪が降る町",
+      "artist": "UNICORN",
+      "has_synced": false,
+      "path": "select/pl_01_雪が降る町_UNICORN.txt"
+    }
+  ]
+}
